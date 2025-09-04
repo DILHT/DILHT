@@ -18,7 +18,7 @@ I specialize in **Full-Stack Development, AI/ML, and ICT Solutions**, creating i
 
 ## 🛠 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,nodejs,express,mongodb,react,nextjs,html,css,flutter,jwt,postman&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,nodejs,express,mongodb,react,nextjs,html,css,flutter,jwt,postman,git,github,blender,godot,lua,vscode,eclipse,javafx,intellij,sublime,aws,azure,linux,raspberrypi,unity,unreal,tailwind,materialui,figma,latex,postgres,redis,graphql,typescript,vue,nuxtjs,nestjs,tailwind,webpack,gitlab,jenkins,jenkins,nginx,sqlite,solidity,flutter,heroku,rails,redis,redux,remix,rollupjs,threejs,tailwind,typescript,vue,vuetify,yarn,zig&theme=dark)](https://skillicons.dev)
 
 ---
 
