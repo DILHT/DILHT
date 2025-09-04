@@ -22,32 +22,28 @@ I specialize in **Full-Stack Development, AI/ML, and ICT Solutions**, creating i
 
 ---
 
-## 📂 Projects & Experience
+## 📊 GitHub Stats
 
-### AI Fact-Checking Agent | LangChain + FastAPI + MongoDB
-- Built a **full-stack system** to evaluate misinformation online.
-- Ranked sources by **credibility** and designed efficient **MongoDB schemas**.
-- Created **FastAPI endpoints** for system interoperability.
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DILHT&show_icons=true&count_private=true&theme=radical)
 
-### SplitSmart App | Node.js + Express + MongoDB
-- Developed **secure REST APIs** with JWT authentication.
-- Managed **group expense logic** and optimized **database queries**.
-- Documented APIs with **Swagger** for team collaboration.
-
-### Lumina Mental Health App | Flutter
-- Developed a **mobile app** offering real-time **chatbot support**.
-- Enhanced **usability and engagement** using user feedback.
-
-### Mobile Money Agent | Airtel Money / TNM Mpamba
-- Assisted customers in transactions and problem-solving.
-- Maintained **accurate records** and ensured compliance.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DILHT&layout=compact&theme=radical)
 
 ---
+
+ ## 📂 Projects & Experience
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| **AI Fact-Checking Agent** | LangChain, FastAPI, MongoDB | Built a full-stack system to evaluate misinformation online. Ranked sources by credibility and designed efficient MongoDB schemas. Created FastAPI endpoints for interoperability. |
+| **SplitSmart App** | Node.js, Express, MongoDB | Developed secure REST APIs with JWT authentication. Managed group expense logic and optimized database queries. Documented APIs with Swagger for team collaboration. |
+| **Lumina Mental Health App** | Flutter | Developed a mobile app offering real-time chatbot support. Enhanced usability and engagement using user feedback. |
+| **Mobile Money Agent** | Airtel Money / TNM Mpamba | Assisted customers in transactions and problem-solving. Maintained accurate records and ensured compliance. |
+
 
 ## 🎓 Education
 
 **Bachelor of Science in Computer Science** | University of Malawi | 2021 – 2025  
-- Gained experience in **software development, system integration, and teamwork**.  
+- Experience in **software development, system integration, and teamwork**.  
 - Developed strong **problem-solving and project execution skills**.
 
 ---
