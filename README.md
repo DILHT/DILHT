@@ -20,10 +20,10 @@ I love building scalable systems, solving real-world problems, and creating inno
 
 | Backend & Programming | Databases | Frontend & Web | AI/ML | Tools |
 |----------------------|-----------|----------------|-------|-------|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) | ![AI](https://img.shields.io/badge/-AI-FF6F61?style=flat) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
-| ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) | ![Data Mining](https://img.shields.io/badge/-Data_Mining-FFA500?style=flat) | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
-| ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) | | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) | | ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white) |
-| ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) | | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) | | ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat) |
+| ![Python](https://skillsicons.dev/icons/python.svg) | ![MongoDB](https://skillsicons.dev/icons/mongodb.svg) | ![React](https://skillsicons.dev/icons/react.svg) | ![AI](https://skillsicons.dev/icons/artificial-intelligence.svg) | ![Git](https://skillsicons.dev/icons/git.svg) |
+| ![Java](https://skillsicons.dev/icons/java.svg) | ![MySQL](https://skillsicons.dev/icons/mysql.svg) | ![Next.js](https://skillsicons.dev/icons/nextjs.svg) | ![Data Mining](https://skillsicons.dev/icons/data-mining.svg) | ![Postman](https://skillsicons.dev/icons/postman.svg) |
+| ![Node.js](https://skillsicons.dev/icons/nodejs.svg) | | ![HTML5](https://skillsicons.dev/icons/html5.svg) | | ![Swagger](https://skillsicons.dev/icons/swagger.svg) |
+| ![Express.js](https://skillsicons.dev/icons/express.svg) | | ![CSS3](https://skillsicons.dev/icons/css3.svg) | | ![JWT](https://skillsicons.dev/icons/jwt.svg) |
 
 ---
 
