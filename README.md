@@ -6,24 +6,19 @@
 
 ## 🌟 About Me
 
-Hi there! I'm **Daniel Kasambala**, a passionate **Computer Scientist** with expertise in **Full-Stack Development, AI/ML, and ICT Solutions**.  
-I love building scalable systems, solving real-world problems, and creating innovative tech solutions that make a difference.  
+Hi there! I'm **Daniel Kasambala**, a passionate **Computer Scientist** and recent graduate.  
+I specialize in **Full-Stack Development, AI/ML, and ICT Solutions**, creating impactful and innovative projects.
 
-- 🔭 I’m currently working on **AI Fact-Checking Agents** and **Mobile Apps**  
-- 🌱 I’m learning **advanced AI algorithms and system design**  
+- 🔭 Currently working on **AI Fact-Checking Agents** and **Mobile Apps**  
+- 🌱 Learning **advanced AI algorithms and system design**  
 - 💬 Ask me about **backend development, APIs, or Flutter apps**  
-- 📫 How to reach me: [Email](mailto:danielkasambala51@gmail.com)  
+- 📫 Reach me via [Email](mailto:danielkasambala51@gmail.com)  
 
 ---
 
-## 🛠 Tech Skills
+## 🛠 My Skills
 
-| Backend & Programming | Databases | Frontend & Web | AI/ML | Tools |
-|----------------------|-----------|----------------|-------|-------|
-| ![Python](https://skillsicons.dev/icons/python.svg) | ![MongoDB](https://skillsicons.dev/icons/mongodb.svg) | ![React](https://skillsicons.dev/icons/react.svg) | ![AI](https://skillsicons.dev/icons/artificial-intelligence.svg) | ![Git](https://skillsicons.dev/icons/git.svg) |
-| ![Java](https://skillsicons.dev/icons/java.svg) | ![MySQL](https://skillsicons.dev/icons/mysql.svg) | ![Next.js](https://skillsicons.dev/icons/nextjs.svg) | ![Data Mining](https://skillsicons.dev/icons/data-mining.svg) | ![Postman](https://skillsicons.dev/icons/postman.svg) |
-| ![Node.js](https://skillsicons.dev/icons/nodejs.svg) | | ![HTML5](https://skillsicons.dev/icons/html5.svg) | | ![Swagger](https://skillsicons.dev/icons/swagger.svg) |
-| ![Express.js](https://skillsicons.dev/icons/express.svg) | | ![CSS3](https://skillsicons.dev/icons/css3.svg) | | ![JWT](https://skillsicons.dev/icons/jwt.svg) |
+[![My Skills](https://skillicons.dev/icons?i=python,java,nodejs,express,mongodb,react,nextjs,html,css,flutter,jwt,postman&theme=light)](https://skillicons.dev)
 
 ---
 
@@ -52,18 +47,18 @@ I love building scalable systems, solving real-world problems, and creating inno
 ## 🎓 Education
 
 **Bachelor of Science in Computer Science** | University of Malawi | 2021 – 2025  
-- Experience in **software development, system integration, and teamwork**.
-- Strong skills in **problem-solving and project execution**.
+- Gained experience in **software development, system integration, and teamwork**.  
+- Developed strong **problem-solving and project execution skills**.
 
 ---
 
 ## 🏆 Certifications
 
-- Malawi School Certificate Of Education  
 - Certificate in Node.js & Express.js – TechCrush  
 - Certificate of Leadership – UNIMA Dance Club  
-- Certificate of Completion – Computer Society of Malawi  
 - Artificial Intelligence Fundamentals with Capstone Project – IBM  
+- Malawi School Certificate Of Education  
+- Certificate of Completion – Computer Society of Malawi  
 
 ---
 
@@ -77,9 +72,9 @@ I love building scalable systems, solving real-world problems, and creating inno
 
 ## 📫 Contact Me
 
-- 📧 Email: [danielkasambala51@gmail.com](mailto:danielkasambala51@gmail.com)  
-- 💻 GitHub: [https://github.com/DILHT](https://github.com/DILHT)  
-- 🔗 LinkedIn: [Your LinkedIn URL](https://linkedin.com/)  
+- 📧 [danielkasambala51@gmail.com](mailto:danielkasambala51@gmail.com)  
+- 💻 [GitHub](https://github.com/DILHT)  
+- 🔗 [LinkedIn](https://linkedin.com/)  
 
 ---
 
